@@ -55,3 +55,5 @@ Create two district maps showcasing the following
 ---
 
 ## Further references
+- [QGIS User Manual[(https://docs.qgis.org/3.22/en/docs/user_manual/)
+- [Color Brewer](https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=5)
