@@ -1,5 +1,7 @@
 # MGHD-GIS-Workshop
 
+![uclaextension.edu](https://github.com/akele-guzay/MGHD-GIS-Workshop/blob/main/pictures/banner.jpg)
+
 In this hands on workshop, you will be provided with with some Neglected Tropical Diseases data and use that to create a compelling choropleth map using QGIS.
 
 ---
