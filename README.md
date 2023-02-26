@@ -36,6 +36,7 @@ Create two district maps showcasing the following
 -  Add Rwanda’s shapefile
 	-  Download the shapefile [here](https://diva-gis.org/gdata)
 	- Add it to QGIS
+	- Explore its contents
 - Add the ‘2021 STH MDA’ file
 	- Explore the csv file
 - Join the data to the shapefile
