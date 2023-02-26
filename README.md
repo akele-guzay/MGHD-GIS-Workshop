@@ -11,7 +11,7 @@ After each MDA, the program reviews it’s coverage rate by comparing the number
 
 They have provided the following two documents
 
-- [2021 STH MDA]()
+- [2021 STH MDA](https://github.com/akele-guzay/MGHD-GIS-Workshop/blob/main/data/RW_2021_STH.csv)
 - [Distribution of health centers]()
 
 ---
