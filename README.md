@@ -12,6 +12,7 @@ They have provided two documents
     • Distribution of health centers (csv file)
 
 *Task*: Create two district maps showcasing the following
+
     1. The coverage rate for the 2021 STH MDA in Rwanda
     2. The distribution of health centers in relation to the coverage rate
     
