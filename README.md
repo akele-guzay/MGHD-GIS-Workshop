@@ -1,4 +1,4 @@
-# MGHD-GIS-Workshop
+# MGHD-GIS-Workshop 🌍
 
 ![uclaextension.edu](https://github.com/akele-guzay/MGHD-GIS-Workshop/blob/main/pictures/banner.jpg)
 
